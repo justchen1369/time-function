@@ -1,0 +1,27 @@
+{
+  "name": "time-function",
+  "version": "1.0.0",
+  "description": "returns time for a function to execute, in milliseconds",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justchen1369/time-function.git"
+  },
+  "keywords": [
+    "time",
+    "timer",
+    "function"
+  ],
+  "author": "Justin C.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/justchen1369/time-function/issues"
+  },
+  "homepage": "https://github.com/justchen1369/time-function#readme",
+  "dependencies": {
+    "perf_hooks": "0.0.1"
+  }
+}
