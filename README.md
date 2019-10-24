@@ -1,7 +1,7 @@
 # time-function
 Returns the time taken for a function to execute in milliseconds.
 
-## paramaters ##
+## parameters ##
 ### func ###
 The function to execute.
 ### args ###
